@@ -2,7 +2,7 @@ Hi, I'm Ghaith - A Full-stack developer with a passion for creating and deliveri
 
 I’m currently learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
-Socials:
+# Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://byghaith.dev/discord) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@byghaithdev) 
 
 # Tech Stack:

@@ -1,4 +1,5 @@
-Hi, I'm Ghaith - A Full-stack developer with a passion for creating and delivering innovative solutions. I design, code, and market my own products.</h3>
+## Hi, I'm Ghaith
+# A Full-stack developer with a passion for creating and delivering innovative solutions. I design, code, and market my own products.</h3>
 
 I’m currently learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 

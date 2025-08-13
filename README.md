@@ -4,7 +4,7 @@ I'm Ghaith, a Fullstack developer from Germany.
 
 ### About me:
 
--   Currently studying business informatics at UPB
+-   Studying business informatics at UPB
 -   Currently learning [Rust](https://www.rust-lang.org)
 -   Always open to collaborating on projects and innovative ideas
 

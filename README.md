@@ -1,37 +1,3 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&height=50&lines=Hi%2C+I'm+Ghaith+%F0%9F%91%8B;Full-stack+developer+from+Germany;I+build+whole+products%2C+end+to+end" width="100%" alt="Hi, I'm Ghaith" />
-</div>
-
-<br>
-
-```typescript
-const ghaith: Developer = {
-  name: "Ghaith",
-  aka: ["devbyghaith", "icxaith"],
-  role: "Full-stack developer",
-  location: "Germany 🇩🇪 (UTC+01:00)",
-  languages: ["en", "de", "ar"],
-  codingSince: "childhood",
-  shippingSince: 2021,
-
-  now: [
-    "🧊 interactive 3D experiences in the browser",
-    "📱 cross-platform apps for web, iOS & Android",
-    "🤖 tools that make AI agents better at real work",
-  ],
-
-  askMeAbout: [
-    "Next.js & React",
-    "NestJS & Node.js",
-    "Three.js / React Three Fiber",
-    "Discord bots & OAuth2",
-    "licensing & subscription systems",
-  ],
-
-  fact: "Built a SaaS, ran it, sold it. It's still online.",
-};
-```
-
 ## About me
 
 I started coding as a kid. My first real users were gamers: in 2021 I was writing Lua for FiveM roleplay servers, then Discord bots and paid services for the people running those communities. One of them, **FileSafety**, a licensing platform for script developers, grew into a real business. I built it, ran it and sold it.
